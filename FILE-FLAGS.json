@@ -1,0 +1,50 @@
+{
+  "scope": "Individual files only; every reciter/collection retained. No confirmed decode corruption.",
+  "appActivated": false,
+  "files": [
+    {
+      "recordingID": "basfar192",
+      "file": "001001.mp3",
+      "surah": 1,
+      "ayah": 1,
+      "reason": "archive/current-download audio version differs",
+      "decodeStatus": "passed for both original versions",
+      "mirrorIncluded": false,
+      "fallbackOriginalRetained": true,
+      "nextAction": "Confirm authoritative original version/checksum with publisher and review actual ayah playback; preserve both originals."
+    },
+    {
+      "recordingID": "maher64",
+      "file": "001001.mp3",
+      "surah": 1,
+      "ayah": 1,
+      "reason": "archive/current-download audio version differs",
+      "decodeStatus": "passed for both original versions",
+      "mirrorIncluded": false,
+      "fallbackOriginalRetained": true,
+      "nextAction": "Confirm authoritative original version/checksum with publisher and review actual ayah playback; preserve both originals."
+    },
+    {
+      "recordingID": "minshawy192",
+      "file": "006006.mp3",
+      "surah": 6,
+      "ayah": 6,
+      "reason": "publisher MD5 differs although archive/current download match",
+      "decodeStatus": "passed for both original versions",
+      "mirrorIncluded": false,
+      "fallbackOriginalRetained": true,
+      "nextAction": "Confirm authoritative original version/checksum with publisher and review actual ayah playback; preserve both originals."
+    },
+    {
+      "recordingID": "maher64",
+      "file": "029063.mp3",
+      "surah": 29,
+      "ayah": 63,
+      "reason": "publisher MD5 differs although archive/current download match",
+      "decodeStatus": "passed for both original versions",
+      "mirrorIncluded": false,
+      "fallbackOriginalRetained": true,
+      "nextAction": "Confirm authoritative original version/checksum with publisher and review actual ayah playback; preserve both originals."
+    }
+  ]
+}

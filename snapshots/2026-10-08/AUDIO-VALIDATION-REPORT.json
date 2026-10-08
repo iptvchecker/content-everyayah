@@ -1,0 +1,62 @@
+{
+  "appChanges": false,
+  "originalsModified": false,
+  "recordings": [
+    {
+      "recordingID": "hudhaify128",
+      "archiveSHA256": "80f3cfd6ead11b4a182b83b650f17dfb23ff58e45128566dacf162e3bf0f5bda",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    },
+    {
+      "recordingID": "basit192",
+      "archiveSHA256": "4f32c8ddab503c50da2c39a1dcb7faa680f6abf9a904ce457cbc20aa46718995",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    },
+    {
+      "recordingID": "basfar192",
+      "archiveSHA256": "74aa18e7a052677cbee1bb1f9c93d23ea9de7db8e755876ee984cab6e5e78eb8",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    },
+    {
+      "recordingID": "minshawy192",
+      "archiveSHA256": "b90487149f3bcdbd3fe9d2a7695cfb882063b541f3e9a00ae66a37e8db79fec6",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    },
+    {
+      "recordingID": "husary64",
+      "archiveSHA256": "dc671776c4201a6b6b08c95f637e80a806fa25273ce7689848fbb20284703047",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    },
+    {
+      "recordingID": "maher64",
+      "archiveSHA256": "bc534d72da5941d7297e58ae27c7e53cb0f1a2b0b8765d24f1f4d322e4dccf54",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    },
+    {
+      "recordingID": "ghamdi40",
+      "archiveSHA256": "040aa1e9a544a21c62081614c1f844874686c64949e50673c88c124f16801a35",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    },
+    {
+      "recordingID": "ajmi128",
+      "archiveSHA256": "f9a660ebb7a3babd3771e9ba95d281b5e87ee7a8c5193e66ce4370b0f1c14261",
+      "complete": true,
+      "failedFiles": [],
+      "warningFiles": []
+    }
+  ]
+}
