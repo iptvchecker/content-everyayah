@@ -1,0 +1,162 @@
+{
+  "appActivated": false,
+  "scope": "Unmodified original files retained separately for review. No substitution or repair applied.",
+  "files": [
+    {
+      "recordingID": "basfar192",
+      "file": "001001.mp3",
+      "originalLoose": {
+        "sourceURL": "https://everyayah.com/data/Abdullah_Basfar_192kbps/001001.mp3",
+        "bytes": 133666,
+        "httpLastModified": "Wed, 25 Jun 2025 16:37:44 GMT",
+        "etag": null,
+        "sha256": "7f4e6493e54b4e81aafec0141b634939d356169f371e18c417e88457d44fa815",
+        "retrievedAt": "2026-10-08T20:22:39.558739+00:00",
+        "publisherPublicationDate": null,
+        "contentModified": false
+      },
+      "archiveSHA256": "aa9a8097966dcbe1e325df21a8c05f8126f73d65b94068fb355ae4b6e8241622",
+      "looseMatchesArchive": false,
+      "publisherMD5": null,
+      "looseMatchesPublisherMD5": null,
+      "eligibleForAppMirror": false,
+      "status": "decoded-source-comparison-complete",
+      "archiveAudio": {
+        "ok": true,
+        "decodedFrames": 496512,
+        "sampleRate": 44100,
+        "channels": 2,
+        "durationSeconds": 11.258775510204082,
+        "pcmSHA256": "fc6addc7b786ee292fc7c76180f14a2183aa9ea1cb4da38eb25f18e24a1a6721",
+        "decoderWarning": null
+      },
+      "looseAudio": {
+        "ok": true,
+        "decodedFrames": 245376,
+        "sampleRate": 44100,
+        "channels": 2,
+        "durationSeconds": 5.564081632653061,
+        "pcmSHA256": "5401d8cf82fffc63aa4030eb4555bff033c7235f32ce27bcbc105f3dfc6709b0",
+        "decoderWarning": null
+      },
+      "identicalDecodedAudio": false
+    },
+    {
+      "recordingID": "maher64",
+      "file": "001001.mp3",
+      "originalLoose": {
+        "sourceURL": "https://everyayah.com/data/Maher_AlMuaiqly_64kbps/001001.mp3",
+        "bytes": 90341,
+        "httpLastModified": "Fri, 20 Jan 2023 04:53:03 GMT",
+        "etag": null,
+        "sha256": "c7da61e6c588874e82cd220ddde0bacdbfb93473eb233439b764969635883c62",
+        "retrievedAt": "2026-10-08T20:22:40.629662+00:00",
+        "publisherPublicationDate": null,
+        "contentModified": false
+      },
+      "archiveSHA256": "90431550d1f723d8561a1413afc06ca20520ebdccad65fa6e6b8e93c92a68390",
+      "looseMatchesArchive": false,
+      "publisherMD5": "e9dab08dd7586e7cfb8eb29e5089e676",
+      "looseMatchesPublisherMD5": false,
+      "eligibleForAppMirror": false,
+      "status": "decoded-source-comparison-complete",
+      "archiveAudio": {
+        "ok": true,
+        "decodedFrames": 81216,
+        "sampleRate": 22050,
+        "channels": 2,
+        "durationSeconds": 3.683265306122449,
+        "pcmSHA256": "4d291ec017d3a368309a7e998e0242e99f02201fcb0a3c8a86462dbdd40e15a1",
+        "decoderWarning": null
+      },
+      "looseAudio": {
+        "ok": true,
+        "decodedFrames": 154461,
+        "sampleRate": 44100,
+        "channels": 2,
+        "durationSeconds": 3.502517006802721,
+        "pcmSHA256": "d8981aedd569ae8a268c6c0525599b3b403539428967caddd212f8b0e4b74180",
+        "decoderWarning": null
+      },
+      "identicalDecodedAudio": false
+    },
+    {
+      "recordingID": "minshawy192",
+      "file": "006006.mp3",
+      "originalLoose": {
+        "sourceURL": "https://everyayah.com/data/Minshawy_Mujawwad_192kbps/006006.mp3",
+        "bytes": 2936842,
+        "httpLastModified": "Fri, 20 Jan 2023 05:54:24 GMT",
+        "etag": null,
+        "sha256": "1054fdfebcc3246143efdde0e8f6ad63474c86330ccb409f301a601ee5c4f036",
+        "retrievedAt": "2026-10-08T20:22:42.622812+00:00",
+        "publisherPublicationDate": null,
+        "contentModified": false
+      },
+      "archiveSHA256": "1054fdfebcc3246143efdde0e8f6ad63474c86330ccb409f301a601ee5c4f036",
+      "looseMatchesArchive": true,
+      "publisherMD5": "aa2da53f72598eb2dcbbe4e853f6c64c",
+      "looseMatchesPublisherMD5": false,
+      "eligibleForAppMirror": false,
+      "status": "decoded-source-comparison-complete",
+      "archiveAudio": {
+        "ok": true,
+        "decodedFrames": 5393664,
+        "sampleRate": 44100,
+        "channels": 2,
+        "durationSeconds": 122.30530612244898,
+        "pcmSHA256": "ec055c1b94afb10591e9e22e5d5f9993efb69a2ef4f3afa2d211319b5bd6c0b7",
+        "decoderWarning": null
+      },
+      "looseAudio": {
+        "ok": true,
+        "decodedFrames": 5393664,
+        "sampleRate": 44100,
+        "channels": 2,
+        "durationSeconds": 122.30530612244898,
+        "pcmSHA256": "ec055c1b94afb10591e9e22e5d5f9993efb69a2ef4f3afa2d211319b5bd6c0b7",
+        "decoderWarning": null
+      },
+      "identicalDecodedAudio": true
+    },
+    {
+      "recordingID": "maher64",
+      "file": "029063.mp3",
+      "originalLoose": {
+        "sourceURL": "https://everyayah.com/data/Maher_AlMuaiqly_64kbps/029063.mp3",
+        "bytes": 257906,
+        "httpLastModified": "Fri, 20 Jan 2023 06:59:50 GMT",
+        "etag": null,
+        "sha256": "b2db1ae291d7633ea146aab0aa476ceb0b951b2c7a18b4fac292cbcbdb8522a7",
+        "retrievedAt": "2026-10-08T20:22:44.008605+00:00",
+        "publisherPublicationDate": null,
+        "contentModified": false
+      },
+      "archiveSHA256": "b2db1ae291d7633ea146aab0aa476ceb0b951b2c7a18b4fac292cbcbdb8522a7",
+      "looseMatchesArchive": true,
+      "publisherMD5": "8c72333d0cbe44949adcce3e6c6edee3",
+      "looseMatchesPublisherMD5": false,
+      "eligibleForAppMirror": false,
+      "status": "decoded-source-comparison-complete",
+      "archiveAudio": {
+        "ok": true,
+        "decodedFrames": 710784,
+        "sampleRate": 44100,
+        "channels": 2,
+        "durationSeconds": 16.117551020408165,
+        "pcmSHA256": "41043d67f21ead16d7baaa4bb9c89583cf228f61e1ecbdfc14dae8825617307d",
+        "decoderWarning": null
+      },
+      "looseAudio": {
+        "ok": true,
+        "decodedFrames": 710784,
+        "sampleRate": 44100,
+        "channels": 2,
+        "durationSeconds": 16.117551020408165,
+        "pcmSHA256": "41043d67f21ead16d7baaa4bb9c89583cf228f61e1ecbdfc14dae8825617307d",
+        "decoderWarning": null
+      },
+      "identicalDecodedAudio": true
+    }
+  ]
+}

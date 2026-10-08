@@ -1,0 +1,173 @@
+{
+  "scope": "Four real original loose files per recording compared against original archive members. Not a full-corpus loose-file equivalence check.",
+  "recordings": [
+    {
+      "recordingID": "basit192",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    },
+    {
+      "recordingID": "hudhaify128",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    },
+    {
+      "recordingID": "minshawy192",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    },
+    {
+      "recordingID": "basfar192",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": false
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    },
+    {
+      "recordingID": "husary64",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    },
+    {
+      "recordingID": "maher64",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": false
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    },
+    {
+      "recordingID": "ghamdi40",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    },
+    {
+      "recordingID": "ajmi128",
+      "samples": [
+        {
+          "file": "001001.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "012111.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "018110.mp3",
+          "byteIdentical": true
+        },
+        {
+          "file": "114006.mp3",
+          "byteIdentical": true
+        }
+      ]
+    }
+  ]
+}
