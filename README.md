@@ -1,15 +1,22 @@
-# EveryAyah recordings
+# EveryAyah recitation files
 
-Eight Hafs reciter collections containing original MP3 recordings and source verification records.
+Original Hafs ayah recordings from the eight collections used for recitation.
 
-All 49,888 expected original archive ayah MP3s passed full macOS audio decoding, with zero failures and zero warnings. Original ZIP CRC, member hashes and whole-archive hashes were checked. This verifies media integrity; it does not mean every verse has been individually reviewed by a listener.
+**49,888 individual MP3 files: 6,236 per collection.** Files retain their original names and bytes under `data/{collection}/{SSSAAA}.mp3`.
 
-Four files are retained separately for review: Basfar 1:1 and Maher 1:1 have different archive/current-download versions; Minshawy 6:6 and Maher 29:63 match current source bytes but differ from the publisher MD5 entries. None failed decoding. See FILE-FLAGS.json and the detailed source comparison.
+| Source collection | Files |
+| --- | ---: |
+| `Abdul_Basit_Murattal_192kbps` | 6,236 |
+| `Abdullah_Basfar_192kbps` | 6,236 |
+| `Ghamadi_40kbps` | 6,236 |
+| `Hudhaify_128kbps` | 6,236 |
+| `Husary_Mujawwad_64kbps` | 6,236 |
+| `Maher_AlMuaiqly_64kbps` | 6,236 |
+| `Minshawy_Mujawwad_192kbps` | 6,236 |
+| `ahmed_ibn_ali_al_ajamy_128kbps` | 6,236 |
 
-Five collections retain the publisher ZIPs, split into contiguous byte parts where necessary. Basfar, Minshawy and Maher use transport ZIPs containing unchanged original MP3 files, excluding only the four separately retained candidates. The eight main packages contain 49,884 ayah MP3s; the four candidates are in four-flagged-original-audio-candidates.zip.
+`SOURCE-FILES.json` records every original source URL, byte size and SHA-256. The original source archives and earlier verification records remain available.
 
-For original ZIP parts, follow REASSEMBLY.json. For transport ZIP parts, follow PACKAGE.json. Concatenate parts in the recorded order and verify the complete archive hash before extraction.
+Source: https://everyayah.com/
 
-Source records retain original URLs, HTTP validators where available, exact hashes, archive member dates and retrieval dates. Retrieval dates are distinct from publication dates.
-
-Source: https://everyayah.com/data/
+Retrieval dates are distinct from original publication dates.
